@@ -1,6 +1,6 @@
 # TryHackMe: Offensive Security Intro
 
-![TryHackMe Completion](https://github.com/user-attachments/assets/d3235450-0272-4df0-a30f-42cc771586e5)
+<img width="1240" height="684" alt="INTRO TO OFF SEC" src="https://github.com/user-attachments/assets/0f9b38df-1cd8-487a-827a-c865df8b8591" />
 
 ## Description
 My first TryHackMe room. A simple intro to offensive security where I learned how to find hidden pages and think like a hacker.
